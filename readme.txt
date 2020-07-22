@@ -1,2 +1,3 @@
-you are success if you see again this file!!
+don't change file "readme.txt" and ".gitignore"
+don't change filer ".vscode"
 
