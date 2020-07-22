@@ -1,3 +1,4 @@
 don't change file "readme.txt" and ".gitignore"
-don't change filer ".vscode"
+if use vscode debug program ,must have ".vscode" filer
+if have the clang program must use chinese.
 
