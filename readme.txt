@@ -1,4 +1,3 @@
-don't change file "readme.txt" and ".gitignore"
+Don't change file "readme.txt"
 if use vscode debug clang program ,must have ".vscode" filer
-if have the clang program must use English.
-
+If you write C language program in vscode, you must use English naming file.
